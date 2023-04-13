@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockVisbekKontrolle", "StockVisbekKontrolle.vbproj", "{6BB41232-9B16-44E8-9922-A619029AE94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB41232-9B16-44E8-9922-A619029AE94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB41232-9B16-44E8-9922-A619029AE94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB41232-9B16-44E8-9922-A619029AE94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB41232-9B16-44E8-9922-A619029AE94D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA399B9A-6B55-4DF5-A559-AFD6AA0E18A3}
+	EndGlobalSection
+EndGlobal

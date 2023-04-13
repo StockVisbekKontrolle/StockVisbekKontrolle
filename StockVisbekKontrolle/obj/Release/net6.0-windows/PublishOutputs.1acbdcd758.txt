@@ -1,0 +1,5 @@
+E:\StockVisbekKontrolle\StockVisbekKontrolle.exe
+E:\StockVisbekKontrolle\StockVisbekKontrolle.dll
+E:\StockVisbekKontrolle\StockVisbekKontrolle.deps.json
+E:\StockVisbekKontrolle\StockVisbekKontrolle.runtimeconfig.json
+E:\StockVisbekKontrolle\StockVisbekKontrolle.pdb
